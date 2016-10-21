@@ -1,0 +1,30 @@
+{
+  "name": "qp-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psvensson/qp-ui.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/psvensson/qp-ui/issues"
+  },
+  "homepage": "https://github.com/psvensson/qp-ui#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookies": "^0.6.1",
+    "express": "^4.14.0",
+    "express-session": "^1.14.1",
+    "node-uuid": "^1.4.7",
+    "passport": "^0.3.2",
+    "redis": "^2.6.2",
+    "spincycle": "^1.8.60"
+  }
+}

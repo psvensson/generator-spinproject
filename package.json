@@ -1,0 +1,25 @@
+{
+  "name": "generator-spinproject",
+  "version": "1.0.0",
+  "description": "generates ready to go spincycle projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psvensson/generator-spinproject.git"
+  },
+  "author": "psvensson@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/psvensson/generator-spinproject/issues"
+  },
+  "homepage": "https://github.com/psvensson/generator-spinproject#readme",
+  "files": [
+    "app"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.24.1"
+  }
+}
